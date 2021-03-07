@@ -20,7 +20,7 @@ sections:
       background_color: blue
       background_image_opacity: 20
       background_image_size: contain
-      background_image_repeat: repeat
+      background_image_repeat: no-repeat
       background_image: images/magnificent-olive.svg
   - type: features_section
     title: We bring brands to their fullest expression
