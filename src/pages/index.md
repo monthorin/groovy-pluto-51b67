@@ -26,10 +26,11 @@ sections:
     title: WE BRING BRANDS TO THEIR FULLEST EXPRESSION
     features:
       - title: Brand Strategy
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Research and insights, Brand architecture, Brand platforms, Naming and
+          nomenclature systems ,Communication strategy, Content strategy, Design
+          strategy, Digital strategy, Physical strategy, Portfolio strategy,
+          Social media strategy
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
