@@ -78,7 +78,7 @@ sections:
     background_color: gray
 seo:
   title: Phygital.agency
-  description: The preview of the Starter theme
+  description: We are Phygital - A consulting agency for Digital and Physical projects
   extra:
     - name: 'og:type'
       value: website
