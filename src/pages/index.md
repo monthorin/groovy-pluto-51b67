@@ -70,9 +70,7 @@ sections:
     recent_count: 3
   - type: cta_section
     title: Space is the limit
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: An idea ? Want to plan a project ?
     actions:
       - label: Contact Us
         url: /contact
