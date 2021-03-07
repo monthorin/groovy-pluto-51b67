@@ -44,7 +44,7 @@ sections:
           language, Illustration language, UX/UI design, Motion design, Brand
           portals/guidance
         align: left
-        image: images/tablet-coffee.jpg
+        image: images/graphic-designer-at-work.jpg
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
