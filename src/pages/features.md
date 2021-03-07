@@ -23,9 +23,9 @@ sections:
             style: primary
       - title: Brand Design
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          Visual identity, Verbal identity, Sound identity, Typography, Image
+          language, Illustration language, UX/UI design, Motion design, Brand
+          portals/guidance
         align: left
         image: images/graphic-designer-at-work.jpg
         image_alt: Feature 2 placeholder image
