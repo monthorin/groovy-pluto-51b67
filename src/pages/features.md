@@ -9,9 +9,10 @@ sections:
     features:
       - title: Brand Strategy
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          Research and insights, Brand architecture, Brand platforms, Naming and
+          nomenclature systems ,Communication strategy, Content strategy, Design
+          strategy, Digital strategy, Physical strategy, Portfolio strategy,
+          Social media strategy
         align: left
         image: images/tech-meeting-flatlay.jpg
         image_alt: Feature 1 placeholder image
