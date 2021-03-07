@@ -44,7 +44,7 @@ sections:
           language, Illustration language, UX/UI design, Motion design, Brand
           portals/guidance
         align: left
-        image: images/feature.svg
+        image: images/tablet-coffee.jpg
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
