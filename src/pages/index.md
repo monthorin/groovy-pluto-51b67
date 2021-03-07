@@ -19,7 +19,7 @@ sections:
     background:
       background_color: blue
       background_image_opacity: 20
-      background_image_size: contain
+      background_image_size: auto
       background_image_repeat: repeat
       background_image: images/magnificent-olive.svg
   - type: features_section
