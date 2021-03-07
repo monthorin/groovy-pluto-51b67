@@ -75,7 +75,7 @@ sections:
       quis lorem malesuada luctus.
     actions:
       - label: Contact Us
-        url: /features
+        url: /contact
         style: primary
     has_background: true
     background_color: gray
