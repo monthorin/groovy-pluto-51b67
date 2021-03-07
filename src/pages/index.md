@@ -23,7 +23,7 @@ sections:
       background_image_size: auto
       background_image_repeat: repeat
   - type: features_section
-    title: We bring brands to their FULLEST EXPRESSION
+    title: We bring brands to their fullestFULLEST EXPRESSION
     features:
       - title: Brand Strategy
         content: >
