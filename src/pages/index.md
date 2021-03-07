@@ -90,7 +90,7 @@ seo:
       value: We are Phygital - A consulting agency for Digital and Physical projects
       keyName: property
     - name: 'og:image'
-      value: images/starter-preview.png
+      value: /images/logo.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
