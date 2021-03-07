@@ -19,7 +19,7 @@ sections:
       background_color: gray
       background_image_opacity: 0
       background_image_size: cover
-      background_image_repeat: repeat
+      background_image_repeat: no-repeat
       background_image: images/black-wood-angle-texture.jpg
   - type: features_section
     title: We bring brands to their fullest expression
