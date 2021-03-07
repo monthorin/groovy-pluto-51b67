@@ -3,7 +3,7 @@ title: Services
 sections:
   - type: hero_section
     title: Features
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+    subtitle: Anything your brand requires
     align: center
   - type: features_section
     features:
