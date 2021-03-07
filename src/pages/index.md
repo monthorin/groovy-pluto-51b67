@@ -64,7 +64,7 @@ sections:
             style: secondary
   - type: cta_section
     title: Space is the limit
-    subtitle: An idea? Want to plan a project ?
+    subtitle: An idea? Want to plan a project?
     actions:
       - label: Contact Us
         url: /contact
