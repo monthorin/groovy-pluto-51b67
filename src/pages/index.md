@@ -87,7 +87,7 @@ seo:
       value: Phygital.Agency
       keyName: property
     - name: 'og:description'
-      value: The preview of the Starter theme
+      value: We are Phygital - A consulting agency for Digital and Physical projects
       keyName: property
     - name: 'og:image'
       value: images/starter-preview.png
