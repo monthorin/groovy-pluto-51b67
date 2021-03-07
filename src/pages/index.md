@@ -4,8 +4,9 @@ sections:
   - type: hero_section
     title: We are Phygital.agency
     subtitle: >-
-      A consulting Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Nullam a metus quis lorem malesuada luctus.
+      A consulting agency for both Digital and Physical Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Nullam a metus quis lorem malesuada
+      luctus.
     actions:
       - label: Learn More
         url: /features
