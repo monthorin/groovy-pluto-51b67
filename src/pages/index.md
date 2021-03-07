@@ -56,7 +56,7 @@ sections:
           Art direction, Brand story, Campaign concepts, Editorial design,
           Social media
         align: left
-        image: images/graphic-designer-at-work.jpg
+        image: images/tablet-coffee.jpg
         image_alt: Feature 3 placeholder image
         image_position: right
         actions:
