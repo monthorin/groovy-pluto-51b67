@@ -20,7 +20,7 @@ sections:
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
-      background_image: images/Illustration_communicationsvggg.svg
+      background_image: images/black-wood-angle-texture.jpg
   - type: features_section
     title: We bring brands to their fullest expression
     features:
