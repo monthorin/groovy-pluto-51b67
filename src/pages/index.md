@@ -12,7 +12,7 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image_alt: We are Ph
+    image_alt: We are Phygital.agency
     image_position: right
     has_background: true
     background:
