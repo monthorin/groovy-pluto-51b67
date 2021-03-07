@@ -6,7 +6,7 @@ sections:
     subtitle: A consulting agency for both Digital and Physical projects.
     actions:
       - label: Learn More
-        url: /features
+        url: /services
         style: primary
       - label: Contact Us
         url: /contact
