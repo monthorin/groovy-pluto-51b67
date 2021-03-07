@@ -57,7 +57,7 @@ sections:
           Art direction, Brand story, Campaign concepts, Editorial design,
           Social media
         align: left
-        image: images/feature.svg
+        image: images/Illustration_communicationsvggg.svg
         image_alt: Feature 3 placeholder image
         image_position: right
         actions:
