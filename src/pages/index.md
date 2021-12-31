@@ -28,7 +28,7 @@ sections:
           Research and insights, Brand architecture, Brand platforms, Naming and
           nomenclature systems ,Communication strategy, Content strategy, Design
           strategy, Digital strategy, Physical strategy, Portfolio strategy,
-          Social media strategy
+          Social media strategy, Cryto Strategy
         align: left
         image: images/tech-meeting-flatlay.jpg
         image_alt: Feature 1 placeholder image
