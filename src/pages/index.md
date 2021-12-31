@@ -23,7 +23,7 @@ sections:
   - type: features_section
     title: We bring brands to their fullest expression
     features:
-      - title: Brand Strategy
+      - title: Brand Crypto Strategy
         content: >
           Research and insights, Brand architecture, Brand platforms, Naming and
           nomenclature systems ,Communication strategy, Content strategy, Design
