@@ -100,9 +100,6 @@ sections:
         image_alt: lorem-ipsum
         image_position: left
         actions: []
-  - title: lorem-ipsum
-    features: []
-    type: features_section
   - type: cta_section
     title: Space is the limit
     subtitle: An idea? Want to plan a project?
