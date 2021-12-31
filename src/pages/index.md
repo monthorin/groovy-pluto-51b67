@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: We are Phygital.Agency
+    title: We are Phygital.agency
     subtitle: A consulting agency for both Digital and Physical projects.
     actions:
       - label: Learn More
