@@ -62,6 +62,9 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
+  - title: lorem-ipsum
+    features: []
+    type: features_section
   - type: cta_section
     title: Space is the limit
     subtitle: An idea? Want to plan a project?
